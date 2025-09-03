@@ -1,23 +1,23 @@
 @font-face {
   font-family: space-mono;
-  src: url("https://raw.githubusercontent.com/rikkathehare/Fonts/main/space_mono/SpaceMono-Bold-webfont.woff");
+  src: url("https://raw.githack.com/rikkathehare/Fonts/main/space_mono/SpaceMono-Bold-webfont.woff");
   font-weight: bold;
 }
 
 @font-face {
   font-family: space-mono;
-  src: url("https://raw.githubusercontent.com/rikkathehare/Fonts/main/space_mono/SpaceMono-BoldItalic-webfont.woff");
+  src: url("https://raw.githack.com/rikkathehare/Fonts/main/space_mono/SpaceMono-BoldItalic-webfont.woff");
   font-weight: bold;
   font-style: italic;
 }
 
 @font-face {
   font-family: space-mono;
-  src: url("https://raw.githubusercontent.com/rikkathehare/Fonts/main/space_mono/SpaceMono-Italic-webfont.woff");
+  src: url("https://raw.githack.com/rikkathehare/Fonts/main/space_mono/SpaceMono-Italic-webfont.woff");
   font-style: italic;
 }
 
 @font-face {
   font-family: space-mono;
-  src: url("https://raw.githubusercontent.com/rikkathehare/Fonts/main/space_mono/SpaceMono-Regular-webfont.woff");
+  src: url("https://raw.githack.com/rikkathehare/Fonts/main/space_mono/SpaceMono-Regular-webfont.woff");
 }
